@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriela Pestana</h1>
-<h3 align="center">A passionate frontend developer from Santos, Brazil</h3>
+<h3 align="center">A passionate frontend developer from Sao Paulo, Brazil</h3>
 
 - 🔭 I’m currently working at **Geometrisa**
 
