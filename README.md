@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriela Pestana</h1>
 <h3 align="center">A passionate frontend developer from Santos, Brazil</h3>
 
-- 🔭 I’m currently working at **Huddle Brasil**
+- 🔭 I’m currently working at **Geometrisa**
 
-- 🌱 I’m currently learning **TDD and Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 
 <!--- 👯 I’m looking to collaborate on **soon**
 
